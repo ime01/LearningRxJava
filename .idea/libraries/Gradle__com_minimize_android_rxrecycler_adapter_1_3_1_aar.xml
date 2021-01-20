@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.minimize.android:rxrecycler-adapter:1.3.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rxrecycler-adapter-1.3.1.aar/d955c9755359968e4bbba21d3324b582/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rxrecycler-adapter-1.3.1.aar/d955c9755359968e4bbba21d3324b582/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rxrecycler-adapter-1.3.1.aar/d955c9755359968e4bbba21d3324b582/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.minimize.android/rxrecycler-adapter/1.3.1/94e00c27ef4eb49973ff57226da60af9e57b0366/rxrecycler-adapter-1.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

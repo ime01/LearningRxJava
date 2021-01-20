@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LearningRxJava</string>
+    <string name="title_activity_database_example">DatabaseExample</string>
+    <string name="title_activity_network_example">NetworkExample</string>
+</resources>
